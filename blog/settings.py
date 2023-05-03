@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'cheesy-does-it.herokuapp.com',
-    '8000-andreasarreqi-cheesy-doe-5kpz73u6x1.us2.codeanyapp.com'
+    '8000-andreasarreqi-cheesy-doe-grj30u47tc.us2.codeanyapp.com'
 ]
 
 
