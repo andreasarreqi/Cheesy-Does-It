@@ -1,6 +1,9 @@
 asgiref==3.6.0
+cloudinary==1.32.0
 dj-database-url==2.0.0
+dj3-cloudinary-storage==0.0.5
 Django==3.2.18
+django-summernote==0.8.11.6
 gunicorn==20.1.0
 psycopg2==2.9.6
 pytz==2023.3
